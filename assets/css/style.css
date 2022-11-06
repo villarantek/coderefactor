@@ -1,4 +1,4 @@
-/* General styles */
+/* General Styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -43,7 +43,7 @@ body {
     margin-left: 25px;
 }
 
-/* Text styles */
+/* Text Styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -53,7 +53,7 @@ p {
     font-size: 16px;
 }
 
-/* Background image */
+/* Background Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     margin-left: 25px;
 }
 
-/* Main information */
+/* Main Information */
 .content {
     width: 75%;
     display: inline-block;
@@ -135,7 +135,7 @@ p {
     font-size: 36px;
 }
 
-/* Side information */
+/* Side Information */
 .benefits {
     margin-right: 20px;
     padding: 20px;
